@@ -1,4 +1,4 @@
-# Final Project: Drupal CMS & Docker Automation
+
 
 ## a. Authors
 * Michael | ID: 330908476
